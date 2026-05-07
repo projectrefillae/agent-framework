@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework",
+  "version": "1.0.0",
+  "description": "A giantly elaborate agent framework for web development",
+  "main": "src/agent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "projectrefillae",
+  "license": "MIT"
+}
