@@ -1,0 +1,1 @@
+[{'language:javascript stars:>100': '.', 'by': 'stars', 'results': [], 'totalCount': 0}, {'fetch repo:vercel/next.js path:src': '.', 'results': [], 'totalCount': 0}, {'by': 'comments', 'Order': 'asc or desc.\n   * @returns {Promise<Object>'}, {'results': [], 'totalCount': 0}, {'login': 'example-user', 'id': 12345, 'number': 123, 'state': 'open'}, {'number': 456, 'state': 'open'}]
